@@ -11,7 +11,6 @@ import {
   withAuthenticator,
   Image,
 } from '@aws-amplify/ui-react';
-import { Card } from 'react-bootstrap';
 
 function App({ signOut }) {
   return (
